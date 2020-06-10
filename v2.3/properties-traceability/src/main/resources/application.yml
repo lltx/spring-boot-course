@@ -1,0 +1,13 @@
+demo:
+  username: lengleng
+  password: 123456
+
+# 开启端点
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+  endpoint:
+    health:
+      show-details: ALWAYS
