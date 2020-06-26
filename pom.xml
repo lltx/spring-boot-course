@@ -12,5 +12,6 @@
   <modules>
     <module>v2.3/properties-traceability</module>
     <module>v2.3/refresh-scope-bug</module>
+    <module>v2.3/global-lazy-init</module>
   </modules>
 </project>
